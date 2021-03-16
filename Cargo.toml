@@ -1,0 +1,13 @@
+[package]
+name = "rusticate"
+version = "0.0.1"
+authors = ["Robert Balicki <robert.balicki@gmail.com>"]
+edition = "2018"
+license = "MIT"
+homepage = "https://github.com/rbalicki2/rusticate"
+documentation = "https://github.com/rbalicki2/rusticate"
+repository = "https://github.com/rbalicki2/rusticate"
+readme = "README.md"
+description = "Internationalization in Rust"
+
+[dependencies]
